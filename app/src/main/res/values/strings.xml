@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZYMusicPlayer</string>
+
+    <string name="unknown">未知</string>
+    <string name="no_local_music">暂无本地音乐</string>
+    <string name="play_time_start">00:00</string>
+    <string name="mode_loop">列表循环</string>
+    <string name="mode_shuffle">随机播放</string>
+    <string name="mode_one">单曲循环</string>
+</resources>

@@ -1,0 +1,16 @@
+项目启动 首先开发音乐播放模块 参考PonyMusic
+后期加入下载功能 下载需要维护一个队列 fileDownloader Aria OkGo
+最后自动选择已下载的进行播放 不存在则播放网络
+
+2017.10.16
+初步准备加班到九点
+
+进度统计：
+
+问题：
+MediaSessionManager
+
+todo：
+晚上回去看艺术探索的remoteView一章节
+
+
